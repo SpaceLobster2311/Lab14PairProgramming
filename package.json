@@ -1,0 +1,25 @@
+{
+  "name": "lab14pairprogramming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpaceLobster2311/Lab14PairProgramming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpaceLobster2311/Lab14PairProgramming/issues"
+  },
+  "homepage": "https://github.com/SpaceLobster2311/Lab14PairProgramming#readme",
+  "dependencies": {
+    "socket.io": "^4.1.2",
+    "socket.io-client": "^4.1.2",
+    "uuid": "^8.3.2"
+  }
+}
